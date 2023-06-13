@@ -1,0 +1,17 @@
+model_id,optimizer,learning_rate,filters_scale,activation_fun,training_time,loss,accuracy
+model_0,adam,0.0001,1.5,relu,410.8,0.2971,0.8722
+model_1,adam,0.0001,1.5,tanh,472.2,0.5465,0.8030
+model_2,adam,0.0001,2.0,relu,540.6,0.2669,0.8891
+model_3,adam,0.0001,2.0,tanh,545.2,0.2498,0.9193
+model_4,adam,0.0007,1.5,relu,402.7,0.2990,0.8873
+model_5,adam,0.0007,1.5,tanh,468.9,1.3842,0.2910
+model_6,adam,0.0007,2.0,relu,532.6,0.5868,0.6788
+model_7,adam,0.0007,2.0,tanh,596.9,1.4078,0.2014
+model_8,adamax,0.0001,1.5,relu,408.4,0.4121,0.8110
+model_9,adamax,0.0001,1.5,tanh,593.2,0.3242,0.8696
+model_10,adamax,0.0001,2.0,relu,541.1,0.3334,0.8607
+model_11,adamax,0.0001,2.0,tanh,601.8,0.2884,0.8784
+model_12,adamax,0.0007,1.5,relu,405.3,0.2984,0.8713
+model_13,adamax,0.0007,1.5,tanh,474.1,0.5527,0.7063
+model_14,adamax,0.0007,2.0,relu,594.8,0.2780,0.8962
+model_15,adamax,0.0007,2.0,tanh,542.6,0.5827,0.7391

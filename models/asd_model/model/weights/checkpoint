@@ -1,0 +1,2 @@
+model_checkpoint_path: "asd_model_weights_lr0.0001_filt32_kr3"
+all_model_checkpoint_paths: "asd_model_weights_lr0.0001_filt32_kr3"
